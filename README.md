@@ -9,3 +9,7 @@ For hack:now and for solving COVID-19!
 * On the other hand, it’s also bad for the renter if the retail store ends up bankrupcy/shut-down, and should be likely to offer a lower rate, or extend the payment date, etc… to help those retail rentee.
 * The website we build would allow the retail business owner to enter in the financial information of the store, and automatically generate the rent plans for the retail business owner to sustain, and would allow the renter and rentee to make an agreement based on that.
 * we hope it will be a win-win for renter and rentee so they together can go through this hard time.
+
+#### News:
+* Prospective teammate found! He is interested in that!
+* found a mentor in this field... but have not yet response ( assuming he's asleep)
